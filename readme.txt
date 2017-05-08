@@ -1,6 +1,3 @@
-gitskiller
-<<<<<<< HEAD
-Creating a new branch is quick & simple.
-=======
-Creating a new branch is quick AND simple.
->>>>>>> feature1
+gitskiller 
+Creating a new branch is quick & simple 111.
+ 
